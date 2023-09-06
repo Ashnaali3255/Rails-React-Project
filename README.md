@@ -102,7 +102,7 @@ Install this project with:
 To run the project, execute the following command:
 
 ```sh
-  rails server
+  ./bin/dev
 ```
 
 ## 👥 Authors <a name="authors"></a>
